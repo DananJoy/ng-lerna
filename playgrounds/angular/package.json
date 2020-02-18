@@ -1,5 +1,5 @@
 {
-  "name": "angular-playgrounds",
+  "name": "dananjoy-angular-playgrounds",
   "version": "2.2.0",
   "scripts": {
     "ng": "ng",
@@ -47,5 +47,6 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "gitHead": "bfc52354f89d490a9a06370519d0b68b80301539"
 }

@@ -3,5 +3,13 @@
     "library/angular/dist/*",
     "playgrounds/angular"
   ],
-  "version": "2.2.0"
+  "version": "independent",
+  "npmClient": "yarn",
+  "useWorkspaces": true,
+  "command": {
+    "publish": {
+      "conventionalCommits": true,
+      "yes": true
+    }
+  }
 }
