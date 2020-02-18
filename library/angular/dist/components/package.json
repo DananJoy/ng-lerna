@@ -17,5 +17,6 @@
   "sideEffects": false,
   "dependencies": {
     "tslib": "^1.9.0"
-  }
+  },
+  "gitHead": "fa5f172704d8b36d7dbe94d7d30e36c79c03cd1e"
 }

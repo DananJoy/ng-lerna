@@ -10,6 +10,9 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@angular-lib/components": "^2.0.0",
     "@angular-lib/modules": "^2.0.0",
