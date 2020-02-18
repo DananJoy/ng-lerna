@@ -1,0 +1,21 @@
+{
+  "name": "@dananjoy-angular-lib/components",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "main": "bundles/dananjoy-angular-lib-components.umd.js",
+  "module": "fesm5/dananjoy-angular-lib-components.js",
+  "es2015": "fesm2015/dananjoy-angular-lib-components.js",
+  "esm5": "esm5/dananjoy-angular-lib-components.js",
+  "esm2015": "esm2015/dananjoy-angular-lib-components.js",
+  "fesm5": "fesm5/dananjoy-angular-lib-components.js",
+  "fesm2015": "fesm2015/dananjoy-angular-lib-components.js",
+  "typings": "dananjoy-angular-lib-components.d.ts",
+  "metadata": "dananjoy-angular-lib-components.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
