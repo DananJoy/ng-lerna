@@ -1,0 +1,21 @@
+{
+  "name": "@angular-lib/modules",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "main": "bundles/angular-lib-modules.umd.js",
+  "module": "fesm5/angular-lib-modules.js",
+  "es2015": "fesm2015/angular-lib-modules.js",
+  "esm5": "esm5/angular-lib-modules.js",
+  "esm2015": "esm2015/angular-lib-modules.js",
+  "fesm5": "fesm5/angular-lib-modules.js",
+  "fesm2015": "fesm2015/angular-lib-modules.js",
+  "typings": "angular-lib-modules.d.ts",
+  "metadata": "angular-lib-modules.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
