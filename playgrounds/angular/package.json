@@ -1,7 +1,6 @@
 {
   "name": "angular-playgrounds",
   "version": "2.1.0",
-  "private": true,
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
