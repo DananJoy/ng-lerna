@@ -1,0 +1,7 @@
+{
+  "packages": [
+    "library/angular/dist/*",
+    "playgrounds/angular"
+  ],
+  "version": "0.0.0"
+}

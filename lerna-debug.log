@@ -1,0 +1,13 @@
+0 silly argv { _: [ 'add' ],
+0 silly argv   globs: [ 'angular-playgrounds' ],
+0 silly argv   lernaVersion: '3.20.2',
+0 silly argv   '$0': 'lerna',
+0 silly argv   pkg: '@angular-lib' }
+1 notice cli v3.20.2
+2 verbose rootPath /Users/joy/Documents/personal/research/angular/ng-lerna2
+3 error Error: Invalid tag name "@angular-lib": Tags may not have any characters that encodeURIComponent encodes.
+3 error     at invalidTagName (/Users/joy/.nvm/versions/node/v10.16.0/lib/node_modules/lerna/node_modules/npm-package-arg/npa.js:91:15)
+3 error     at fromRegistry (/Users/joy/.nvm/versions/node/v10.16.0/lib/node_modules/lerna/node_modules/npm-package-arg/npa.js:296:13)
+3 error     at resolve (/Users/joy/.nvm/versions/node/v10.16.0/lib/node_modules/lerna/node_modules/npm-package-arg/npa.js:81:12)
+3 error     at npa (/Users/joy/.nvm/versions/node/v10.16.0/lib/node_modules/lerna/node_modules/npm-package-arg/npa.js:52:10)
+3 error     at AddCommand.initialize (/Users/joy/.nvm/versions/node/v10.16.0/lib/node_modules/lerna/node_modules/@lerna/add/index.js:39:17)
