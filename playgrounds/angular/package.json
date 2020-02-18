@@ -1,6 +1,6 @@
 {
   "name": "angular-playgrounds",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -13,8 +13,8 @@
     "access": "public"
   },
   "dependencies": {
-    "@angular-lib/components": "^2.1.0",
-    "@angular-lib/modules": "^2.1.0",
+    "@angular-lib/components": "^2.2.0",
+    "@angular-lib/modules": "^2.2.0",
     "@angular/animations": "~8.2.14",
     "@angular/common": "~8.2.14",
     "@angular/compiler": "~8.2.14",
